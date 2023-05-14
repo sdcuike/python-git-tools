@@ -1,7 +1,12 @@
 SHELL := /bin/bash
 
-dir := /Users/cuikexiang/logs
+#设置项目下载路径
+dir := /Users/sdcuike/gitlabproject
+
+#设置gitlab域名
 git_host := https://git.xxxx.com
+
+#设置gitlab token
 git_access_token := xxxxxxxx
 
 
